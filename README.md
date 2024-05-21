@@ -17,7 +17,7 @@ In the following video demo, I configure Router on a Stick on a small network an
 <h2>ROAS</h2>
 
 <p>
-<img src="https://i.imgur.com/Oq4URUp.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/Oq4URUp.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 The image above is the network prior to implementing ROAS. Please watch video for full explanation of configurations. 
