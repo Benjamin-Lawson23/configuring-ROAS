@@ -8,7 +8,7 @@ In the following video demo, I configure Router on a Stick on a small network an
 
 <h2>Video Demonstration</h2>
 
-- ### [YouTube: Basic Subnetting Demo]([)](https://youtu.be/-xHhC53mQVw) 
+- ### [YouTube: Basic Subnetting Demo](https://youtu.be/-xHhC53mQVw) 
   
 <h2>Environments and Technologies Used</h2>
 
